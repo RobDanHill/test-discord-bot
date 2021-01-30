@@ -1,1 +1,3 @@
-# test-discord-bot
+# Test Discord Bot
+
+This is an educational venture into the Discord Bot API. More info to come...
